@@ -1,0 +1,23 @@
+{
+  "name": "require-bower",
+  "version": "1.0.0",
+  "description": "allows bower components to be included using the require key word",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "require",
+    "dependencies",
+    "js"
+  ],
+  "author": "Harish Veerasekaran",
+  "license": "MIT",
+  "dependencies": {
+    "wiredep": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
